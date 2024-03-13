@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.jpg'); /* Путь к изображению фона */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+main {
+    background-color: #0056b3 ;/* Полупрозрачный черный фон для контента */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.projects {
+    margin-top: 20px;
+}
+
+.projects h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.projects ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.projects li {
+    margin-bottom: 10px;
+}
+
+.projects a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    background-color: #007bff;
+    border-radius: 5px;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+.projects a:hover {
+    background-color: #007bff;
+}
