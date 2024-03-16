@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { name: "PCControl", url: "https://github.com/Akitilltka/PCControl.py", category: "python" },
         { name: "TimeControl", url: "https://github.com/Akitilltka/TimeControll", category: "python" },
         { name: "FontsChanger", url: "https://github.com/Akitilltka/FontChanger", category: "python" },
+        { name: "Generator passwords and users", url: "https://github.com/Elytrya/Generator-user-passwords", category: "python" },
         // Добавьте здесь остальные Python-проекты
     ];
 
